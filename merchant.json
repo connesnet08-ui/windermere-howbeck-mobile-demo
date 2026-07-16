@@ -1,0 +1,21 @@
+{
+  "business_name": "The Howbeck",
+  "city_area": "Windermere",
+  "industry": "Independent guest house",
+  "positioning": "Individually styled rooms in a Lakeland-stone guest house close to Windermere village.",
+  "primary_cta": "Compare rooms",
+  "secondary_cta": "Check availability",
+  "phone": "01539 444 739",
+  "email": "relax@howbeck.co.uk",
+  "website": "https://www.howbeck.co.uk/",
+  "facebook": "https://www.facebook.com/howbeck",
+  "instagram": "",
+  "map_url": "https://www.google.com/maps/search/?api=1&query=The%20Howbeck%20New%20Road%20Windermere%20LA23%202LA",
+  "address": "New Road, Windermere, Cumbria, LA23 2LA",
+  "hours": "",
+  "services": ["Luxury rooms", "The Retreat suite", "Mini suites", "Superior rooms"],
+  "demo_angle": "Compare room character first, then enter the existing booking route.",
+  "observed_problem": "The official home-page booking URLs contain fixed July 2020 dates and the room comparison is separated from the booking action.",
+  "image_plan": ["Official exterior as the recognisable hero", "Official dark luxury room", "Official gold room", "Official olive room"],
+  "risk_notes": ["Concept preview only", "No live availability, prices, rating or review copy", "Official-source images logged separately"]
+}
